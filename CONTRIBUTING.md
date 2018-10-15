@@ -6,7 +6,7 @@ node | ^8.11.x
 [yarn](https://yarnpkg.com/en/) | ^1.3.0
 [freeCodeCamp](https://github.com/freecodecamp/freecodecamp) | Running Locally
 
-[freeCodeCamp/freeCodeCamp](https://github.com/freecodecamp/freecodecamp) currently holds the backend code for learn. The development process relies on this backend. You will see a message like below if you attemp to run `Learn` locally without it:
+[freeCodeCamp/freeCodeCamp](https://github.com/freecodecamp/freecodecamp) currently holds the backend code for learn. The development process relies on this backend. You will see a message like below if you attempt to run `Learn` locally without it:
 
 ```sh
 error UNHANDLED EXCEPTION
